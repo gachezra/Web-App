@@ -20,7 +20,7 @@
     </div>
     <div class="main">
       <h2>About Us</h2>
-      <p>EventKick Kenya is a web app designed to help tourists find events and activities to do while visiting Kenya. Our mission is to provide a comprehensive and user-friendly platform that showcases the best events in the country.</p>
+      <p>EventKick Kenya is a web app designed to help tourists and locals find events and activities that fit their desires. Our mission is to provide a comprehensive and user-friendly platform that showcases the best events in the country.</p>
       <h3>Our Team</h3>
       <ul>
         <li><strong>John Doe</strong> - Founder and CEO</li>
