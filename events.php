@@ -55,7 +55,7 @@
           <p>Date: July 1, 2024 - July 3, 2024</p>
           <p>Time: 9:00 AM - 10:00 PM</p>
           <p>Category: Culture</p>
-          <a href="#">Learn More</a>
+          <a href="maasai.php">Learn More</a>
         </li>
         <li>
           <h3>Nairobi Food Festival</h3>
@@ -63,7 +63,7 @@
           <p>Date: November 15, 2024 - November 17, 2024</p>
           <p>Time: 11:00 AM - 9:00 PM</p>
           <p>Category: Food</p>
-          <a href="#">Learn More</a>
+          <a href="golf.php">Learn More</a>
         </li>
       </ul>
     </div>
